@@ -1,0 +1,4 @@
+Determine the narrative
+Verify smallness and atomicity 
+Ensure the commit message sufficiently explains the code 
+confirm the code is efficient and bug-free
